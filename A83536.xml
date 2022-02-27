@@ -1,0 +1,304 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two declarations of the Parliament of the commonwealth of England concerning Scotland. Together with several proceedings of the commissioners appointed by the Parliament for ordering and managing affairs in Scotland.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83536</idno>
+            <idno type="STC">Wing E2394</idno>
+            <idno type="STC">Thomason E659_19</idno>
+            <idno type="STC">ESTC R206724</idno>
+            <idno type="EEBO-CITATION">99865836</idno>
+            <idno type="PROQUEST">99865836</idno>
+            <idno type="VID">118087</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83536)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118087)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 101:E659[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two declarations of the Parliament of the commonwealth of England concerning Scotland. Together with several proceedings of the commissioners appointed by the Parliament for ordering and managing affairs in Scotland.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field, printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The declarations state the Parliament's intentions to incorporate Scotland into the commonwealth of England and exact damages from Scots who opposed Parliament in the civil war.</note>
+                  <note>Annotation on Thomason copy: "Aprill 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Confiscations and contributions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118087:1" rendition="simple:additions"/>
+            <p>TWO DECLARATIONS OF THE PARLIAMENT OF THE Commonwealth of <hi>ENGLAND</hi> CONCERNING SCOTLAND.</p>
+            <p>Together with ſeveral PROCEEDINGS OF THE Commiſsioners Appointed by the PARLIAMENT For Ordering and Managing Affairs in <hi>SCOTLAND.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field,</hi> Printer to the Par<g ref="char:EOLhyphen"/>liament of <hi>England.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:118087:2"/>
+            <pb n="3" facs="tcp:118087:2"/>
+            <head>A Declaration of the Parliament of the Commonwealth of <hi>England,</hi> concerning the Settlement of <hi>Scotland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Parliament of the Commonwealth of <hi>England</hi> eſteeming it a neceſſary care and obligation that lies upon them, to improve the Power which God hath now given them, for the Advancement of the Glory of God, and the good and welfare of the whole Iſland, Have thought fit to nominate and appoint Commiſſioners forthwith to repair into <hi>Scotland,</hi> for effecting the ſame; And do hereby Declare,</p>
+            <p>Firſt, As to what concerns the Advancement of the Glory of God, That their conſtant Endeavors ſhall be, To promote the Preaching of the Goſpel there, and to advance the Power of true Religion and Holineſs; and, That God may be ſerved and worſhipped according to his minde revealed in his Word, with Protection and all due Countenance and Encouragement therein to the People of that Nation, from thoſe in Authority under the Parliament.</p>
+            <p>Secondly, They do Declare, As to what concerns the Freedom to be eſtabliſhed to the People there, and the Se<g ref="char:EOLhyphen"/>curity to this Commonwealth to be had for time to come, That <hi>Scotland</hi> ſhall and may be Incorporated into, and become one Commonwealth with this of <hi>England;</hi> whereby the ſame Government that is eſtabliſhed here,
+<pb n="4" facs="tcp:118087:3"/>and enjoyed by the good People of this Nation, under the Free State and Commonwealth of <hi>England,</hi> as now ſetled without King or Houſe of Lords, may be derived and communicated unto them, with ſuch convenient ſpeed, as the ſame can be made practicable amongſt them.</p>
+            <p>Thirdly, They do Declare, As to Satisfaction and Repairation, that they intend and expect, for the vaſt Ex<g ref="char:EOLhyphen"/>pences and Damages which this Commonwealth hath al<g ref="char:EOLhyphen"/>ready undergone, by reaſon of the Invaſion in the year One thouſand ſix hundred forty eight, by the Scots Ar<g ref="char:EOLhyphen"/>my under the then Duke <hi>Hamilton:</hi> The War which they neceſſitated <hi>England</hi> to, for their own Defence; and, The late Invaſion by the Army under <hi>Charls Stu<g ref="char:EOLhyphen"/>art;</hi> and, For and towards the leſſening the future charge of this Commonwealth, All the Lands, Houſes, Goods and Revenue whatſoever belonging to the ſaid <hi>Charls Stuart,</hi> pretended King of the Scots, or to the Crown or State of <hi>Scotland;</hi> and, All the Eſtates whatſoever, Real or Perſonal, of thoſe who did Invade <hi>England,</hi> un<g ref="char:EOLhyphen"/>der Duke <hi>Hamilton,</hi> in the year One thouſand ſix hun<g ref="char:EOLhyphen"/>dred forty eight, or were adviſing, contriving or promo<g ref="char:EOLhyphen"/>ting thereof, or in any way ayding, abetting or aſsiſting thereunto; or, Who were in Arms under the ſaid <hi>Charls Stuart,</hi> or were any way ayding, abetting or aſsiſting to him in <hi>Scotland:</hi> or, Who did with the ſaid <hi>Charls Stu<g ref="char:EOLhyphen"/>art</hi> lately invade <hi>England,</hi> or were ayding, abetting or aſsiſting thereunto; or ſince the ſame have raiſed Arms, or been Promoters, Abettors or Aſsiſters thereof, in Proſecution of the ſaid Invaſion; or in Oppoſition to the Forces of the Parliament of <hi>England</hi> remaining there, Shall be Confiſcated and Forfeited to the uſe and benefit of the Commonwealth of <hi>England;</hi> Except ſuch who
+<pb n="5" facs="tcp:118087:3"/>have, ſince the Battel of <hi>Dunbar,</hi> on the Third of <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> One thouſand ſix hundred and fifty, deſerted the ſaid <hi>Charls Stuart,</hi> and not born Arms ſince againſt the Parliament; As alſo ſuch, whoſe Merits and Services to this Commonwealth, have, or ſhall render them capable of being taken into a more favorable conſideration by the Parliament.</p>
+            <p>Fourthly, The Parliament do Declare, That all ſuch perſons of the Scotiſh Nation, as are not comprehended within the former Qualifications, but have kept them<g ref="char:EOLhyphen"/>ſelves free from the guilt of thoſe things which have com<g ref="char:EOLhyphen"/>pelled this War; and ſhall now, upon the Diſcovery of their own true Intereſt, be diſpoſed to concur with, and promote the Ends formerly and now Declared by the Parliament, Shall be taken into the Protection of the Parliament, and enjoy their Liberties and Eſtates, as other the Free People of the Commonwealth of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>ANd foraſmuch as the Parliament are ſatisfied, That many of the People of <hi>Scotland,</hi> who are Vaſſals or Tenants to, and had dependency upon the Noblemen and Gentry, (The chief Actors in theſe Invaſions and Wars againſt <hi>England</hi>) were by their Influence drawn into, and have been involved with them in the ſame Evils; It is hereby Declared, That all thoſe who are already, or ſhall within Thirty days after the publication hereof on this ſide the River <hi>Tay,</hi> and within thirty days after publication hereof beyond the River <hi>Tay,</hi> and within thirty days after the publication hereof beyond the River <hi>Spey,</hi> put themſelves under the Protection of the Parlia<g ref="char:EOLhyphen"/>ment of the Commonwealth of <hi>England,</hi> and conform themſelves to their Government and Regulation, Shall
+<pb n="6" facs="tcp:118087:4"/>not onely be pardoned for all Acts paſt, but be ſet free from their former Dependencies and Bondage-ſervices; and, Shall be admitted as Tenants, Freeholders and He<g ref="char:EOLhyphen"/>ritors, to Farm, hold, inherit and enjoy from and under this Commonwealth, proportions of the ſaid Confiſcated and Forfeited Lands, under ſuch eaſie Rents and reaſon<g ref="char:EOLhyphen"/>able conditions, as may enable them, their Heirs and Poſterity, to live with a more comfortable Subſiſtence then formerly, and like a Free People, delivered (through Gods goodneſs) from their former Slaveries, Vaſſalage and Oppreſſions.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <head>By the Commiſsioners of the Parliament of the Commonwealth of <hi>England,</hi> for Ordering and Managing Affairs in <hi>Scotland.</hi>
+            </head>
+            <p>THe Parliament of the Commonwealth of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> having Declared their Intentions concerning the Settlement of <hi>Scotland,</hi> and appointed Us their Commiſsioners to publiſh and make known the ſame to the people of this Nation, and to uſe our Endea<g ref="char:EOLhyphen"/>vor, whereby the ſaid Settlement may with moſt ſatisfa<g ref="char:EOLhyphen"/>ction and ſpeed be effected, and the whole Iſland, through the goodneſs of God, brought to an happy and laſting Peace: We do therefore by vertue of the power on that behalf given Us, Authorize and require you, to meet in ſome convenient place within your Shire, and there to no<g ref="char:EOLhyphen"/>minate and elect <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Perſons of integrity and
+<pb n="7" facs="tcp:118087:4"/>good affection to the welfare and peace of this Iſland; which ſaid perſons ſo elected, with full power on your be<g ref="char:EOLhyphen"/>half, for effecting the premiſes, are to be with us at <hi>Dal<g ref="char:EOLhyphen"/>kieth</hi> upon the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> day of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Given under our Hands at</hi> Dalkieth <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>this <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> day of</hi> 1651.</p>
+            <trailer>
+               <hi>To the Heretors and Rentallers of the Sheriffdom of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> 
+               </hi>
+            </trailer>
+         </div>
+         <div type="order">
+            <head>By the Commiſsioners of he Parliament of the Commonwealth of <hi>England,</hi> for Ordering and Managing Affairs in <hi>Scotland.</hi>
+            </head>
+            <p>ALthough the Parliament of the Commonwealth of <hi>England,</hi> in their Declaration concerning the ſettlement of <hi>Scotland,</hi> Have in the Article that concerns Religion, and the Advancement of the power of Godlineſs held forth, That the Uniontendred by them to <hi>Scotland,</hi> for making it one Commonwealth with <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> ſhall be (through the aſſiſtance of God) ſo managed, as may conduce to the real good and encouragement of all thoſe that fear God in both Nations; and that the People throughout the whole Iſland may become ſuch, as amongſt whom the Lord may delight to dwell.</p>
+            <p>And have likewiſe, together with what they publiſh concerning Forfeiture and Confiſcation of Eſtates, held forth in their ſaid Declaration, favor to ſeveral ſorts of
+<pb n="8" facs="tcp:118087:5"/>perſons according to their reſpective Qualifications, ex<g ref="char:EOLhyphen"/>preſſed and contained therein: Yet to the end the good Intentions of the Parliament may be more fully under<g ref="char:EOLhyphen"/>ſtood by all, and brought to happy effect, according to the truſt and power committed to us: We Declare,</p>
+            <p>That for promoting of Holineſs, and advancing the power of Godlineſs, all poſſible care ſhall be uſed for pub<g ref="char:EOLhyphen"/>liſhing the Goſpel of Chriſt, in all parts of this Land, and proviſion of maintenance made and allowed to the faith<g ref="char:EOLhyphen"/>ful Diſpenſers thereof; together with ſuch other encou<g ref="char:EOLhyphen"/>ragements as the Magiſtrate may give, and may be ex<g ref="char:EOLhyphen"/>pected by them, who demean themſelves peaceably and becomingly, to the Government and Authority by which they receive the ſame. As alſo, that care ſhall be taken for removing of ſcandalous Perſons, who have intru<g ref="char:EOLhyphen"/>ded into the Work of the Miniſtry, and placing of others fitly qualified with gifts, for the inſtructing of the people in their ſtead. And that ſuch Miniſters whoſe Con<g ref="char:EOLhyphen"/>ſciences oblige them to wait upon God in the adminiſtra<g ref="char:EOLhyphen"/>tion of ſpiritual Ordinances, according to the order of the Scotiſh Churches, with any that ſhall voluntarily joyn in the practice thereof, ſhall receive protection and encouragement from all in Authority, in their peaceable and inoffenſive exerciſe of the ſame; as alſo ſhall others, who not being ſatisfied in Conſcience to uſe that Form, ſhall ſerve and worſhip God in other Goſpel-way, and behave themſelves peaceably and inoffenſively therein.</p>
+            <p>We ſhall likewiſe take care as much as in us lies, that in places of Truſt throughout this Nation, Magiſtrates and Officers fearing God may be ſet up, who according to the duty of their place, may be a terror to all evil-doers, and even to them whoſe licentious practices (though under pretence of Liberty and Conſcience) ſhall manifeſt not
+<pb n="9" facs="tcp:118087:5"/>to walk according to godlineſs and honeſty. And by ver<g ref="char:EOLhyphen"/>tue of the power on that behalf given us, We do further Declare, That all perſons within the Qualifications of Favor, expreſſed in the Parliaments Declaration, being Inha<g ref="char:EOLhyphen"/>bitants within the Borough of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> that ſhall in purſu<g ref="char:EOLhyphen"/>ance thereof live peaceably under, and yield obedience un<g ref="char:EOLhyphen"/>to the Authority of the Parliament of the Commonwealth of <hi>England</hi> exerciſed in <hi>Scotland,</hi> are capable of, and ſhall enjoy the reſpective Benefits and Favors held forth in the ſaid Declaration, and ſhall have ſuch further Grants and Con<g ref="char:EOLhyphen"/>firmations for the compleating thereof, as ſhall be found re<g ref="char:EOLhyphen"/>quiſite. And we do laſtly Declare, That all Merchants, Tradeſmen and Handy-Crafts men within the ſaid Borough, not having in Lands and Goods above the clear value of Five hundred pounds ſterling, (not being Priſoners at Wars, or Soldiers of Fortune in Commiſſion) who ſhall alſo in purſuance of the ſaid Declaration, live peaceably under, and yield obedience unto the Authority of the Parliament of the Commonwealth of <hi>England</hi> exerciſed in <hi>Scotland,</hi> ſhall not onely be freed and diſcharged from all Forfeitures and Confiſcations of their Eſtates, for any thing formerly done by them in reference to the Wars, but be received into the Protection of Parliament, and enjoy ſuch Liberties and Im<g ref="char:EOLhyphen"/>munities, as alſo ſuch Leaſes and Grants of Confiſcated and Forfeited Lands, as upon conſideration of their reſpe<g ref="char:EOLhyphen"/>ctive qualities and deſerts ſhall be thought fit. Provided the favor held forth in this Declaration, extend not unto any perſons, commonly known by the Name of Moſs-Troopers, or any other who have murthered or kill'd any Soldiers contrary to the Laws and Cuſtom of War; or any Engliſh people contrary to the Laws of <hi>Scotland.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Given under our Hands at</hi> Dalkieth, <date>
+                     <hi>the <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> day of</hi> Fe<g ref="char:EOLhyphen"/>bruary, <hi>in the year of our Lord,</hi> 165<gap reason="blank" extent="1 letter">
+                        <desc>_</desc>
+                     </gap>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="order">
+            <pb n="10" facs="tcp:118087:6"/>
+            <head>By the Commiſsioners of the Parliament of the Commonwealth of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> for ordering and managing Affairs in <hi>Scotland.</hi>
+            </head>
+            <p>THe Parliament of the Commonwealth of <hi>England,</hi> having taken the ſettlement of <hi>Scotland</hi> into their ſerious conſidera<g ref="char:EOLhyphen"/>tion, and thoſe things which in the eſtabliſhing of the Govern<g ref="char:EOLhyphen"/>ment there, may be acceptable to God, and for the good and welfare of the People. And foraſmuch as the due Adminiſtration of Juſtice and Right, doth effectually conduce thereunto: And the Parlia<g ref="char:EOLhyphen"/>ment having in purſuance thereof, Authorized and Commanded us to uſe our utmoſt Endeavors, that Juſtice be done to all the People of <hi>Scotland,</hi> Equally and Impartially without reſpect of perſons, and as may be moſt for their eaſe and relief. And finding it neceſſary ſince our coming hither, that for thoſe ends Judicatories be ſpeedily erected, to the effecting whereof in a ſetled and orderly way, more time will be required then the preſent condition of <hi>Scotland,</hi> by reaſon of the long want of Adminiſtration of Juſtice will permit; we have thought fit to make the ſame known unto the People of <hi>Scotland.</hi> And likewiſe, That in conſideration of the preſent Exigency, we ſhall by vertue of the Power unto us given in that behalf, by the Parliament of the Com<g ref="char:EOLhyphen"/>monwealth of <hi>England,</hi> forthwith appoint and authorize perſons to the Adminiſtration of Juſtice unto the People of <hi>Scotland,</hi> who are to be continued for ſome ſhort time, until the Judicatories and Courts of Juſtice may in a more ſolemn and laſting way be eſtabliſhed.</p>
+            <p>And we do further, for and in the name of the Parliament of the Commonwealth of <hi>England,</hi> Declare, That no Power, Juriſdiction or Authority, derived from, by or under <hi>Charls Stuart,</hi> who pretendeth himſelf King of <hi>Scotland,</hi> or any of his Predeceſſors, or any otherwiſe then from the Parliament of the Commonwealth of <hi>England,</hi> be uſed, exerciſed or enjoyed within <hi>Scotland,</hi> the Iſles, or any the Territories thereof; and do hereby forbid, adnul and make void the uſe or exerciſe of any Power Juriſdiction or Authority whatſoever within <hi>Scotland,</hi> the Iſles, or any the Territories thereof, other then ſuch as is or ſhall be derived from the Parliament of the Commonwealth of <hi>England,</hi> whereof all perſons of whatſoever condition or quality are to take notice, and required not to do to the contrary thereof in any ways, upon the Pains and Penalties that may thereupon enſue. And, that none may pretend ignorance hereof, We have commanded this Decla<g ref="char:EOLhyphen"/>ration to be Printed and Proclaimed at the Market-croſs of <hi>Edenburgh,</hi>
+               <pb n="11" facs="tcp:118087:6"/>and the other Burghs within <hi>Scotland,</hi> where Proclamations have uſually been made.</p>
+            <closer>
+               <dateline>
+                  <hi>Given under our Hands at</hi> Dalkieth, <date>
+                     <hi>the</hi> 31<hi rend="sup">th</hi> 
+                     <hi>of</hi> January, <hi>in the year of our Lord,</hi> 1651.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Ol. St. John.</hi>
+                     </item>
+                     <item>
+                        <hi>G. Fenwick.</hi>
+                     </item>
+                     <item>
+                        <hi>H. Vane.</hi>
+                     </item>
+                     <item>
+                        <hi>Rob. Titchborn.</hi>
+                     </item>
+                     <item>
+                        <hi>J. Lambert.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Salwey.</hi>
+                     </item>
+                     <item>
+                        <hi>R. Dean.</hi>
+                     </item>
+                     <item>
+                        <hi>Geo. Monck.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="declaration">
+            <head>A Declaration of the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>gland,</hi> in order to the <g ref="char:V">Ʋ</g>niting of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> into one Commonwealth with <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </head>
+            <p>WHereas the ſeveral Shires and Burroughs of <hi>Scotland</hi> hereafter mentioned, have by their Deputies aſſented unto the Tender of the Parliament of the Commonwealth of <hi>England,</hi> That <hi>Scotland</hi> ſhall and may be Incorporated into, and become one Commonwealth with <hi>England;</hi> whereby the ſame Government that is Eſtabliſhed here, and enjoy<g ref="char:EOLhyphen"/>ed by the Good People of this Nation, under the Free State and Commonwealth of <hi>England,</hi> as now ſetled without King or Houſe of Lords, may be derived and communicated unto them, with ſuch convenient ſpeed as the ſame can be made practicable amongſt them; That is to ſay, The Shires of <hi>Barwick, Haddington, Roxbo<g ref="char:EOLhyphen"/>rough, Linlithgo, Dunbarton, Dumfreeze, Witon, Forfar, Aberdeen, Bamf, Bute, Lanerk, Kinkardine, Nearn, Sterling, Clackmannon, Edinburgſhire, Fife, Pebles, Sel<g ref="char:EOLhyphen"/>kirk, Orkney</hi> and <hi>Zetland,</hi> and <hi>Pearth;</hi> And the Bur<g ref="char:EOLhyphen"/>roughs of <hi>Edinburgh, Aberdeen, S<hi rend="sup">t</hi> Andrews, Pearth, Rothſea, Dundee, Aberbothick, Lauther, Haddington, Dunbar, North Berwick, Linlithgo, Queens-Ferry, Ster<g ref="char:EOLhyphen"/>ling, Rugland, Witon, Forfar, Montroſs, Bamf, Breichin,
+<pb n="12" facs="tcp:118087:7"/>Brunt-Iſland; Crayl, Jedborough, Dunbarton, Cullein, Amſtroder-Weſt, Pittenweyn, Elgin, Cowper, Kinghorn, Innerkething, Kooleroſs, Kilrenny, Amſtrother-Eaſt, Sel<g ref="char:EOLhyphen"/>kirk, Diſert, Glaſgow, Innerneſs</hi> and <hi>Kircaldy;</hi> as by the ſeveral and reſpective Declarations, ſigned under the Hands of the ſaid Deputies of Shires and Burroughs, and preſented to the Parliament, and there now remain<g ref="char:EOLhyphen"/>ing, doth appear.</p>
+            <p>Upon conſideration whereof the Parliament have Re<g ref="char:EOLhyphen"/>ſolved, That a Bill be brought in for making the ſaid Union accordingly; and do Declare, That the People of this whole Iſland ſhall be repreſented in One Parliament, and be Governed by their ſucceſſive Repreſentatives therein; and that the People of <hi>Scotland</hi> ſhall ſend Mem<g ref="char:EOLhyphen"/>bers to ſerve in the Parliament of the Commonwealth of <hi>England,</hi> in ſuch proportion and at ſuch time, as ſhall be hereafter declared.</p>
+            <p>And as to the particulars for the effecting hereof, and ſetling of the Laws and Government in <hi>Scotland,</hi> and other things neceſſary for compleating the ſaid Union, the Parliament do think fit, That a certain number of Deputies, to be Choſen and Commiſſionated in maner hereafter expreſſed, do attend the Parliament, or ſuch perſons, and at ſuch places as the Parliament ſhall ap<g ref="char:EOLhyphen"/>point, on the behalf of the Shires and Burroughs of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> conſenting to the ſaid Union, with full power to ef<g ref="char:EOLhyphen"/>fect the premiſes: And for-this purpoſe the Parliament doth Declare, That the reſpective Shires and Burroughs of <hi>Scotland,</hi> unto whom Warrants for Electing Deputies to meet with the Commiſſioners of Parliament at <hi>Dal<g ref="char:EOLhyphen"/>kieth,</hi> have been formerly ſent by the ſaid Commiſſion<g ref="char:EOLhyphen"/>ers; and who in purſuance thereof have by their Depu<g ref="char:EOLhyphen"/>ties or otherwiſe, declared their Conſent unto the ſaid Union, which hath been received and allowed by
+<pb n="13" facs="tcp:118087:7"/>the ſaid Commiſſioners of Parliament; or ſuch Shires and Burroughs as ſhall, after the publiſhing of this Decla<g ref="char:EOLhyphen"/>ration, and before the time herein appointed for the new Election of Deputies, declare their Conſent unto the ſaid Union, to the effect of what hath been already declared by the reſt of the Shires and Burroughs, and ſuch Decla<g ref="char:EOLhyphen"/>ration of theirs be accepted and allowed of by the Com<g ref="char:EOLhyphen"/>miſſioners of the Parliament, or the Commander in chief for the time being in <hi>Scotland,</hi> ſhall be capable of choo<g ref="char:EOLhyphen"/>ſing and ſending Deputies for the intent aforeſaid: And all ſuch Shires and Burroughs as aforeſaid, that is to ſay, The Heritors and Rentallers of the ſaid Shires, and the Neighbors and Burgeſſes of the ſaid Burroughs reſpe<g ref="char:EOLhyphen"/>ctively, are hereby authoriſed and required to meet at ſome convenient place within their reſpective Shires and Burroughs, at ſome time before the end of the Moneth of <hi>July</hi> next, and then and there to Elect and Chooſe for their Deputies reſpectively, perſons of known Integrity, and ſuch as have declared their Conſent to the ſaid Uni<g ref="char:EOLhyphen"/>on, in like Numbers as formerly they were authoriſed to do by the Commiſſioners of Parliament reſiding at <hi>Dal<g ref="char:EOLhyphen"/>kieth</hi> in <hi>Scotland,</hi> which perſons ſo Elected, are to be commiſſionated by their reſpective Shires and Burroughs, according to the Tenor following:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="commission">
+                        <p>VVE Underwriters <gap reason="blank" extent="2 words">
+                              <desc> _____ _____ </desc>
+                           </gap> being authoriſed and required by the Parlia<g ref="char:EOLhyphen"/>ment of the Commonwealth of <hi>England,</hi> to Elect <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> perſons of known Integrity, and who have declared their Conſent, That <hi>Scotland</hi> be Incorporated into, and made One Commonwealth with <hi>England;</hi> with power on our behalf, to meet with the reſt of the Deputies of Shires and Bur<g ref="char:EOLhyphen"/>roughs at <hi>Edinburgh,</hi> at or before the Twentieth day of <hi>Auguſt,</hi> One thouſand ſix hundred fifty two; and there by
+<pb n="14" facs="tcp:118087:8"/>Vote of the major part of Deputies preſent, to Elect Four<g ref="char:EOLhyphen"/>teen perſons to repreſent all the Shires of <hi>Scotland</hi> con<g ref="char:EOLhyphen"/>ſenting to the Union as aforeſaid; and Seven perſons to re<g ref="char:EOLhyphen"/>preſent all the Burroughs conſenting as aforeſaid, to attend the Parliament of <hi>England,</hi> or ſuch as they ſhall appoint, as is directed by their Declaration bearing Date the Five and twentieth day of <hi>March,</hi> One thouſand ſix hundred fifty two; and to have full power for effecting the matters ex<g ref="char:EOLhyphen"/>preſſed in the ſaid Declaration, Do give and grant for us and in our Name, and in the Name and behalf of <gap reason="blank" extent="2 words">
+                              <desc> _____ _____ </desc>
+                           </gap> unto <gap reason="blank" extent="2 words">
+                              <desc> _____ _____ </desc>
+                           </gap> full power to attend the Parliament of <hi>England,</hi> or ſuch perſons as they ſhall appoint, for effecting the matters expreſſed in the ſaid Declaration, and to do all things requiſite for the perfecting the ſaid Union; holding firm and ſtable what ſhall be ſo done by our ſaid Deputies, to all intents and purpoſes, as if we our ſelves had been in perſon preſent and done the ſame.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And are to meet at <hi>Edinburgh</hi> at or before the Twen<g ref="char:EOLhyphen"/>tieth of <hi>Auguſt</hi> next, and out of themſelves to Elect Four<g ref="char:EOLhyphen"/>teen perſons to repreſent all the ſaid Shires, and ſeven perſons to repreſent all the ſaid Burroughs; which One and twenty perſons are to make their repair to the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> or to ſuch places in <hi>England</hi> as the Par<g ref="char:EOLhyphen"/>liament ſhall appoint, upon the Firſt day of <hi>October,</hi> One thouſand ſix hundred fifty two, with Commiſſions to them or any Eleven of them, from the reſt of the ſaid Deputies of Shires and Burroughs, according to the Te<g ref="char:EOLhyphen"/>nor hereafter expreſſed:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="commission">
+                        <p>VVE Underwriters, Deputies for the ſeveral Shires and Burroughs hereafter named, That is to ſay, <gap reason="blank" extent="2+ words">
+                              <desc> _____ _____ </desc>
+                           </gap> being thereunto authoriſed by our ſaid Shires and Burroughs, in purſuance of the Declaration of the Parliament of the Commonwealth of <hi>England</hi> in that
+<pb n="15" facs="tcp:118087:8"/>behalf, Dated the Five and twentieth day of <hi>March,</hi> One thouſand ſix hundred fifty two, have nominated and elected of our Number <gap reason="blank" extent="2 words">
+                              <desc> _____ _____ </desc>
+                           </gap> to repreſent our ſaid Shires, and <gap reason="blank" extent="2 words">
+                              <desc> _____ _____ </desc>
+                           </gap> to repreſent our ſaid Burroughs; which ſaid One and twenty perſons are to attend the Parliament of <hi>England,</hi> or ſuch perſons as the Parliament ſhall appoint, in purſuance of and for the ends expreſſed in their ſaid Declaration: And we do hereby give and grant, for us and in our Name, and in the Name and behalf of the ſaid Shires and Burroughs, un<g ref="char:EOLhyphen"/>to the ſaid One and twenty perſons or any Eleven of them, full power to bring to effect the matters expreſſed in the ſaid Declaration, and to do all things requiſite for the per<g ref="char:EOLhyphen"/>fecting the ſaid Union; holding firm and ſtable, what ſhall be ſo done by our Commiſsioners, to all intents and purpo<g ref="char:EOLhyphen"/>ſes, as if we our ſelves had been in perſon preſent and done the ſame.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And before the ſaid Deputies do proceed to the Ele<g ref="char:EOLhyphen"/>ction of perſons at their ſaid meeting at <hi>Edinburgh</hi> to at<g ref="char:EOLhyphen"/>tend the Parliament as aforeſaid, they are in the preſence of ſuch as for that purpoſe ſhall be thereunto appointed by the ſaid Commiſſioners, or by the Commander in chief of the Forces for the time being in <hi>Scotland,</hi> by wri<g ref="char:EOLhyphen"/>ting under their Hands to declare their Conſent to the Union in maner following:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="consent">
+                        <p>
+                           <hi>I A. B.</hi> being choſen and deputed by <gap reason="blank" extent="2 words">
+                              <desc> _____ _____ </desc>
+                           </gap> do declare my willing Conſent unto the Tender of the Par<g ref="char:EOLhyphen"/>liament of the Commonwealth of <hi>England,</hi> That <hi>Scotland</hi> be Incorporated into, and made One Commonwealth with <hi>England,</hi> whereby the ſame Government that is eſtabliſh<g ref="char:EOLhyphen"/>ed in <hi>England</hi> without King or Houſe of Lords, may be de<g ref="char:EOLhyphen"/>rived to the People of <hi>Scotland;</hi> and that I will be True and Faithful unto the ſaid Government, and live peaceably under, and yield obedience unto the Authority thereof ex<g ref="char:EOLhyphen"/>erciſed in <hi>Scotland.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="16" facs="tcp:118087:9"/>
+And for defraying the Expences of the ſaid Deputies appointed as aforeſaid to attend the Parliament upon this Service, it is thought ſit, and hereby declared, That twen<g ref="char:EOLhyphen"/>ty ſhillings <hi>Sterlin</hi> by the day be allowed unto each of the ſaid Deputies during this ſervice, from the time of their ſetting forth for <hi>England;</hi> and that according to the ſaid proportion of Twenty ſhillings <hi>Sterlin</hi> by the day there be advanced unto each of the ſaid Deputies, three Moneths allowance, which is to be paid them upon the place by the Commiſſioners at <hi>Leeth</hi> out of the Publique Revenue there, who are hereby authoriſed and required to iſſue the ſame accordingly.</p>
+            <p>And the Commiſſioners of Parliament for Managing the Affairs of <hi>Scotland,</hi> or ſuch as they ſhall appoint, are hereby authoriſed and required to cauſe this Declaration, by ſuch perſons as they ſhall appoint, to be publiſhed and made known unto the reſpective Shires and Burroughs as aforeſaid, in ſuch maner, as they may not pretend Igno<g ref="char:EOLhyphen"/>rance thereof; and ſuch Publication ſhall to all intents and purpoſes be as effectual, for the authoriſing the ſaid Shires and Burroughs to proceed to this Election of De<g ref="char:EOLhyphen"/>puties as aforeſaid, as if particular Summons for that pur<g ref="char:EOLhyphen"/>poſe had been granted unto each of them.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
